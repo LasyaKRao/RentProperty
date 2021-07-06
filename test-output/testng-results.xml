@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-06T13:51:37Z" name="Suite" finished-at="2021-07-06T13:52:41Z" duration-ms="64664">
+    <groups>
+    </groups>
+    <test started-at="2021-07-06T13:51:37Z" name="Test" finished-at="2021-07-06T13:52:41Z" duration-ms="64664">
+      <class name="nobroker.NoBroker.RentProperty">
+        <test-method signature="verifyAbuseReport_RentProperty()[pri:0, instance:nobroker.NoBroker.RentProperty@7b993c65]" started-at="2021-07-06T19:21:37Z" name="verifyAbuseReport_RentProperty" finished-at="2021-07-06T19:22:41Z" duration-ms="64635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAbuseReport_RentProperty -->
+      </class> <!-- nobroker.NoBroker.RentProperty -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
